@@ -1,0 +1,53 @@
+.event-subscription-container {
+  border: 1px solid #eaeaea;
+  padding: 10px;
+
+  // Update and error messages.
+  .updated {
+    color: green;
+    margin: 10px 0;
+    font-size: 110%;
+    padding: 10px;
+    border: 1px solid green;
+    background: #edffdc;
+  }
+
+  .error {
+    color: red;
+    font-size: 110%;
+    border: 1px solid red;
+    padding: 10px;
+    background: #ffdcdc;
+    margin: 10px 0;
+
+    ul {
+      margin: 0;
+      padding: 0 0 0 20px;
+    }
+  }
+
+  .input {
+    display: block;
+
+    input {
+      margin:10px 0;
+    }
+
+    input[type=textfield],
+    input[type=email] {
+      padding: 5px;
+      background-color: inherit;
+      border: 1px solid #eaeaea;
+      border-radius: 3px;
+      width: inherit;
+    }
+
+    span {
+      cursor: pointer;
+    }
+  }
+
+  input[type=submit] {
+    margin-top: 15px;
+  }
+}

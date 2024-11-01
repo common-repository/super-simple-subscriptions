@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Simple Subscriptions\n"
+"POT-Creation-Date: 2016-03-23 18:31+0100\n"
+"PO-Revision-Date: 2016-03-23 18:32+0100\n"
+"Last-Translator: Marcel van Doornen <marcel@webbouwplus.nl>\n"
+"Language-Team: Marcel van Doornen <marcel@webbouwplus.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: super_simple_subscriptions.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin.post.php:7
+msgid "Enable event subscriptions"
+msgstr "Zet evenement inschrijvingen aan"
+
+#: includes/admin.post.php:40
+msgid "Enable subscriptions for this event"
+msgstr "Zet inschrijvingen aan voor dit evenement"
+
+#: includes/admin.subscriptions.php:13
+msgid "Event subscription"
+msgstr "Evenement inschrijving"
+
+#: includes/admin.subscriptions.php:15
+msgid "Event subscriptions"
+msgstr "Evenement inschrijvingen"
+
+#: includes/admin.subscriptions.php:99
+msgid "No subscriptions available."
+msgstr "Geen inschrijvingen aanwezig."
+
+#: includes/admin.subscriptions.php:197 includes/subscriptionbox.php:167
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: includes/admin.subscriptions.php:198 includes/subscriptionbox.php:172
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: includes/admin.subscriptions.php:199
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/admin.subscriptions.php:200 includes/admin.subscriptions.php:390
+#: includes/admin.subscriptions.php:392
+msgid "Event"
+msgstr "Evenement"
+
+#: includes/admin.subscriptions.php:201
+msgid "Added"
+msgstr "Toegevoegd"
+
+#: includes/admin.subscriptions.php:323 includes/admin.subscriptions.php:324
+#: includes/admin.subscriptions.php:348
+msgid "Events Subscriptions"
+msgstr "Evenement Inschrijvingen"
+
+#: includes/admin.subscriptions.php:354
+msgid "Download subscriptions"
+msgstr "Download inschrijvingen"
+
+#: includes/admin.subscriptions.php:383
+msgid "Subscriptions per page"
+msgstr "Inschrijvingen per pagina"
+
+#: includes/subscriptionbox.php:37
+msgid "Please enter your firstname."
+msgstr "Vul aub je voornaam in."
+
+#: includes/subscriptionbox.php:42
+msgid "Please enter your lastname."
+msgstr "Vul aub je achternaam in."
+
+#: includes/subscriptionbox.php:47
+msgid "Please enter your email address."
+msgstr "Vul aub je e-mailadres in."
+
+#: includes/subscriptionbox.php:52
+msgid "Please enter a valid email address."
+msgstr "Vul aub een geldig e-mailadres in."
+
+#: includes/subscriptionbox.php:100
+msgid "&#10003; Your subscribted to this event."
+msgstr "&#10003; Je bent ingeschreven voor dit evenement."
+
+#: includes/subscriptionbox.php:109
+msgid "You already subscribed to this event."
+msgstr "Je bent al ingeschreven voor dit evenement."
+
+#: includes/subscriptionbox.php:126
+msgid "&#10003; You are no longer subscribed for this event."
+msgstr "&#10003; Je bent niet langer ingeschreven voor dit evenement."
+
+#: includes/subscriptionbox.php:135
+msgid "No subscription found."
+msgstr "Geen inschrijvingen gevonden."
+
+#: includes/subscriptionbox.php:162
+msgid "Subscribe to this event"
+msgstr "Schrijf je in voor dit evenement"
+
+#: includes/subscriptionbox.php:177
+msgid "Your email address"
+msgstr "Je e-mailadres"
+
+#: includes/subscriptionbox.php:182
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+#: includes/subscriptionbox.php:185
+msgid "Unsubscribe"
+msgstr "Uitschrijven"
+
+#: includes/subscriptionbox.php:192
+msgid "Submit"
+msgstr "Verzenden"
+
+#. Plugin Name of the plugin/theme
+msgid "Super Simple Subscriptions"
+msgstr "Super Simple Subscriptions"
+
+#. Description of the plugin/theme
+msgid "Subscribe to an event created with the Super Simple Events plugin"
+msgstr ""
+"Schrijf je in op een evenement dat gemaakt is de Super Simple Event plugin"
+
+#. Author of the plugin/theme
+msgid "Marcel van Doornen"
+msgstr "Marcel van Doornen"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webbouwplus.nl"
+msgstr "http://www.webbouwplus.nl"
+
+#~ msgid "Subscribe to a event created with the Super Simple Events plugin"
+#~ msgstr ""
+#~ "Schrijf je in op een evenement dat gemaakt is de Super Simple Event plugin"
+
+#~ msgid "Email address"
+#~ msgstr "E-mailadres"
+
+#~ msgctxt "super_simple_subscriptions"
+#~ msgid "Events Subscriptions"
+#~ msgstr "Evenement inschrijvingen"
+
+#~ msgid "Subscripe to this event"
+#~ msgstr "Schrijf je in voor dit evenement"
+
+#~ msgctxt "super_simple_subsciptions"
+#~ msgid "Events Subscriptions"
+#~ msgstr "Evenement Inschrijvingen"
